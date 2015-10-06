@@ -1,0 +1,9 @@
+{
+  "defaultCommand": "drama",
+  "commands": {
+    "drama": {
+      "scriptType": "bash",
+      "scriptPath": "index.sh"
+    }
+  }
+}
